@@ -34,3 +34,5 @@ An end-to-end system that uses a custom-trained YOLOv8 model to detect vehicles 
     * Autonomous LangChain agent with custom tools to interact with a database.
     * Solves a real-world problem of automating logistics and mitigating revenue loss.
 * **Tech Stack:** `YOLOv8`, `OpenCV`, `LangChain Agents`, `Google Gemini`, `SQLite`
+
+* **Link For Model** [BERT_Model](https://drive.google.com/drive/folders/1Cs_37dgIJ1-Iyqyz0kcrOltXzMjEH3tG?usp=sharing)
