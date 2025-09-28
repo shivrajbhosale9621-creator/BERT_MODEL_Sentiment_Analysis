@@ -1,0 +1,29 @@
+# Core Data Science & ML
+pandas
+numpy
+scikit-learn
+
+# Deep Learning & Transformers
+torch
+transformers
+datasets
+ultralytics # For YOLO
+
+# Generative AI & RAG Frameworks
+langchain
+langchain-groq
+langchain-google-genai
+llama-index
+chromadb
+sentence-transformers # For local embeddings
+python-dotenv
+
+# Web App & Visualization
+streamlit
+matplotlib
+seaborn
+
+# Utilities
+opencv-python-headless # For image processing with YOLO
+dateparser
+ipykernel # For running notebooks
